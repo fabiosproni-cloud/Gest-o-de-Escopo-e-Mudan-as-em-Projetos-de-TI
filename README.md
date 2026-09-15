@@ -6,9 +6,11 @@ O objetivo deste caderno temático é criar um guia rápido e prático de consul
 
 ## 📚 Curadoria de Fontes
 Para a construção deste material, foram selecionadas fontes confiáveis que abordam metodologias ágeis e tradicionais de gestão de projetos. Os seguintes documentos foram carregados no NotebookLM:
-1. **[O Guia Scrum (The Scrum Guide)]** - *Link para o PDF/Site oficial*
-2. **[Artigo/Guia sobre PMBOK e Gerenciamento de Escopo]** - *Link da fonte*
-3. **[Documento/Artigo sobre Gestão de Mudanças e Requisitos em TI]** - *Link da fonte*
+1. *https://www.youtube.com/watch?v=669guD_wAXc*
+2. *https://www.youtube.com/watch?v=H4eCbynW6Po*
+3. *https://www.youtube.com/watch?v=4Iq7SIvX99o*
+4. *https://acervodigital.ufpr.br/xmlui/handle/1884/61309*
+5. *https://www.youtube.com/watch?v=hOCCNeegOjA*
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes"
 
@@ -21,7 +23,38 @@ Durante o desenvolvimento deste guia, documentei as interações com o NotebookL
 
 **Tentativa 2 (Prompt Refinado):**
 * **Prompt:** "Atue como um gerente de projetos de TI lidando com contas corporativas complexas. Com base nas fontes, crie um checklist de comunicação para quando o cliente solicita uma mudança de requisitos que impacta o cronograma. Como devo estruturar essa atualização de status para avaliar os impactos?"
-* **Resposta:** *[Insira aqui a resposta gerada pelo NotebookLM]*
+* **Resposta:** *[Checklist de Comunicação de Mudança de Requisitos
+[ ] Registro Formal: Exigir o pedido por escrito, contendo o detalhamento da mudança e a justificativa de negócio
+.
+[ ] Classificação do Escopo: Identificar se a solicitação altera o escopo do produto (funcionalidades/especificações) ou o escopo do projeto (trabalho, fases e entregas)
+.
+[ ] Análise Multidisciplinar de Impacto: Avaliar o impacto em prazos, custos, esforço e riscos
+, além dos reflexos na infraestrutura de TI e nas pessoas afetadas
+.
+[ ] Validação Benefício vs. Esforço: Confirmar se os benefícios esperados superam os custos e prejuízos operacionais
+, mantendo o alinhamento com a estratégia do projeto
+.
+[ ] Regra dos 30%: Verificar se a mudança ultrapassa 30% da EAP/WBS ou do cronograma. Se sim, avaliar se vale cancelar o projeto atual e iniciar um novo
+.
+[ ] Submissão à Governança (ITIL): Encaminhar o parecer ao Gerente de Mudanças e ao Conselho Consultivo de Mudança (CAB)
+, obtendo a aprovação formal do patrocinador (sponsor)
+.
+[ ] Comunicação e Prontidão: Engajar as equipes envolvidas como embaixadores da mudança, fornecendo informações transparentes, suporte e treinamento
+.
+Estrutura da Atualização de Status (Status Update Report)
+Contexto e Justificativa: ID da solicitação, descrição detalhada da alteração, motivo do cliente
+ e classificação entre escopo do produto ou projeto
+.
+Matriz de Impactos: Estimativa do acréscimo de prazo (cronograma e milestones), custos/recursos adicionais
+ e riscos organizacionais/técnicos
+.
+Análise de Valor e Viabilidade: Relação benefício vs. esforço
+, alinhamento com o Termo de Abertura
+ e indicador de variação da EAP (alerta para mudanças >30%)
+.
+Parecer de Governança e Decisão: Recomendação do Gerente de Mudanças/CAB
+ e campo de assinatura do patrocinador para aceite ou rejeição formal
+]*
 * **Evolução:** A resposta foi muito superior. A IA forneceu um passo a passo claro sobre como mapear a mudança, avaliar o impacto no tempo e custo, e como formalizar isso com as partes interessadas.
 
 ## 📘 Miniguia de Estudo: Gestão de Mudanças
